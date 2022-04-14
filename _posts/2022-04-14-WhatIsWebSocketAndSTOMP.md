@@ -28,6 +28,9 @@ WebSocket 프로토콜을 단일 TCP 연결을 통해 클라이언트와 서버 
  STOMP(Simple/Stream Text Oriented Message Protocol)는 websocket 위에서 동작하는 문자 기반 메시지 프로토콜로써 클라이언트와 서버가 전송할 메세지의 유형, 형식, 내용들을 정의하는 매커니즘입니다. 
  기본적으로 pub/sub 구조로 되어 있어, 메시지를 전송하고 받아 처리하는 부분이 확실히 정해져 있습니다. 
 
+## SpringBoot WebSocket STOMP Guide
+
+- https://www.javaguides.net/2019/06/spring-boot-websocket-stomp-sockjs-example.html
 
 ### 참고 자료
 - https://stackoverflow.com/questions/40988030/what-is-the-difference-between-websocket-and-stomp-protocols
